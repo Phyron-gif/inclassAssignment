@@ -24,16 +24,7 @@ public class practice{
 
          * 
          */
-        int[] linearSearch = {1,4,5,6,8,9};
-        int targetValue = 5;
-        int counting = -1;
-        
-        for (int index=0; index < linearSearch.length; index++){
-            if (linearSearch[index] == targetValue){
-                counting = index;
-                System.out.println("we found "+ targetValue+"at index" + index);
-                
-            }
+
         }
         
     }
